@@ -1,2 +1,0 @@
-# OS
-operating system codes
