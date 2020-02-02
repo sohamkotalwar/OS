@@ -1,0 +1,3 @@
+	hello pict
+	this is a inter process communication program
+	using pipes
